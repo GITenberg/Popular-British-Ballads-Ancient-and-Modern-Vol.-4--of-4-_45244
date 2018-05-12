@@ -1,0 +1,37 @@
+_repo: Popular-British-Ballads-Ancient-and-Modern-Vol.-4--of-4-_45244
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Cooke, W. Cubitt (William Cubitt)
+    aliases:
+    - Cooke, William Cubitt
+    - Cooke, W.C.
+    birthdate: 1866
+    deathdate: 1951
+    gutenberg_agent_id: '35916'
+    url: http://www.gutenberg.org/2009/agents/35916
+covers:
+- cover_type: archival
+  image_path: 45244-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Johnson, R. Brimley (Reginald Brimley)
+    alias: Johnson, Reginald Brimley
+    birthdate: 1867
+    deathdate: 1932
+    gutenberg_agent_id: '3902'
+    url: http://www.gutenberg.org/2009/agents/3902
+description: ''
+gutenberg_issued: '2014-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45244'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Ballads, English -- England -- Texts'
+title: Popular British Ballads, Ancient and Modern, Vol. 4 (of 4)
+url: http://www.gutenberg.org/ebooks/45244
