@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '3902'
     url: http://www.gutenberg.org/2009/agents/3902
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45244#Popular-British-Ballads-Ancient-and-Modern-Vol.-4--of-4-
 gutenberg_issued: '2014-03-28'
 gutenberg_type: Text
 identifiers:
